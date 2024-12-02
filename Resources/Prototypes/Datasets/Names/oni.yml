@@ -1,0 +1,10 @@
+- type: dataset
+  id: names_oni_male
+  values:
+  - Lorem
+  - Ipsum
+- type: dataset
+  id: names_oni_female
+  values:
+  - Lorem
+  - Ipsum

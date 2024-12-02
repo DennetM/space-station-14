@@ -7,6 +7,7 @@
     - Diona
     - Dwarf
     - Human
+    - Oni
     - Moth
     - Reptilian
     - SlimePerson
@@ -31,6 +32,11 @@
   id: Human
   name: species-name-human
   text: "/ServerInfo/Guidebook/Mobs/Human.xml"
+
+- type: guideEntry
+  id: Oni
+  name: species-name-oni
+  text: "/ServerInfo/Guidebook/Mobs/Oni.xml"
 
 - type: guideEntry
   id: Moth

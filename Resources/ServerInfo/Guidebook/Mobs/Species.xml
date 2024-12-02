@@ -8,6 +8,7 @@
   <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
   <GuideEntityEmbed Entity="MobDwarf" Caption="Dwarf"/>
   <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
+  <GuideEntityEmbed Entity="MobOni" Caption="Giant"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
